@@ -1,0 +1,18 @@
+Airfoil presentation:
+
+https://docs.google.com/presentation/d/1Zlhms-lBC2xc2Hbq7Q5-_wICYeBt4SRh128qX4354JA/edit#slide=id.g9bf55f0adc_0_0
+
+https://docs.google.com/presentation/d/1taCCaTRmtrOFdI_pWb5ikhPwzzzewQqQe1hEuqh5qco/edit#slide=id.p
+
+
+
+Rib Design Methodology:
+
+https://docs.google.com/document/d/1jsyxTPsS6aV2eGBEuve3_QzVjQaWs6Ux90r4aheAd7I/edit
+
+
+
+
+CFD:
+
+Redo simulation to get screenshot
